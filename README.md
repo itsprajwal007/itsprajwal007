@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/@its__prajwal" target="blank"><img src="https://img.shields.io/twitter/follow/@its__prajwal?logo=twitter&style=for-the-badge" alt="@its__prajwal" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **C++, Javascript, NodeJS, MongoDB**
+- 💬 Ask me about **C++, Javascript, NodeJS, MongoDB, React**
 
 - 📫 How to reach me **gaikwadprajwal81@gmail.com**
 
